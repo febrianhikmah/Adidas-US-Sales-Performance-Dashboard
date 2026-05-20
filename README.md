@@ -48,7 +48,7 @@ Dataset yang digunakan berisi data penjualan Adidas di United States, mencakup i
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Dashboard Features
 Dashboard ini terdiri dari beberapa visualisasi utama:
